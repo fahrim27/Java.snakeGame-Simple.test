@@ -1,2 +1,2 @@
 # Snake
-Java implementation of Snake with difficulty settings.
+Java implementation of Snake Game with difficulty settings.
